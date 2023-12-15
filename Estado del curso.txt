@@ -1,0 +1,1 @@
+Este es un documento para apuntes del curso de Git.
